@@ -8,7 +8,7 @@ My career goals are to evolve as a software engineer by continuous learning, wor
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asanfilov/)
 - 💬 Ask me about: unit testing principles and practices
-- 👫 Pronouns: he/his
+- 👫 Pronouns: he/him
 - 🐶 Fun fact: I have lived and worked in two countries overseas, so I speak two foreign languages
 - 🤝 What my colleagues think about me:
     > Very passionate about the job   
