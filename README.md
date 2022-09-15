@@ -3,9 +3,7 @@
 Hi, I am Alex. As a software developer, I am passionate about my craft and eager to learn and grow. 
 I enjoy being a part of a great team that builds useful software following best practices. I have a Master's degree in Global Software Development from a German university. 
 
-Since 2018, my tech stack consists of .NET C# and SQL Server and I specialize in back-end applications. In my current role as a DotNet developer, I like to use a test-driven development to write testable code and can refactor legacy C# code as needed to make it easier to maintain.
-
-My career goals are to evolve as a software engineer by continuous learning, working with highly skilled and passionate IT professionals, and looking for ways to improve existing approaches. So I keep reading about software engineering, DevOps practices, software testing, and apply what I learned.
+Since 2018, my tech stack consists of .NET C# and SQL Server and I specialize in back-end applications.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asanfilov/)
 - 💬 Ask me about: unit testing principles and practices
