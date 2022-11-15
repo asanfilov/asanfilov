@@ -13,7 +13,6 @@ Since 2018, my tech stack consists of .NET C# and SQL Server and I specialize in
     > Very passionate about the job   
     > Eager to grow and learn, not afraid to ask questions  
     > Detail-oriented  
-    > Takes ownership  
     > Can quickly get up to speed with the unfamiliar codebase under mentorship of a senior team member  
 
 <!--
