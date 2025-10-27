@@ -14,7 +14,7 @@ More recently, I've expanded my skills to include professional WPF development.
 - 🤝 What my colleagues think about me:
     > Very passionate about the job   
     > Eager to grow and learn, not afraid to ask questions  
-    > Detail-oriented  
+    > Quality- and detail-oriented  
     > Can quickly get up to speed with the unfamiliar codebase
 
 <!--
